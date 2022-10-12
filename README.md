@@ -38,3 +38,5 @@
 
 ## ✍Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" alt="Dev Meme😂">
+
+![Snake animation](https://github.com/bimalbhandari/bimalbhandari/blob/output/github-contribution-grid-snake.svg)
